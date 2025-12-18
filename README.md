@@ -14,8 +14,8 @@
 
 ### 📖 Ce que j'apprends à l'heure actuelle
 
-**Langages :** C++, PHP  
-**Frameworks & Bibliothèques :** PyTorch, JavaFX, Symfony, Vue.js
+**Langages :** C++, PHP, C
+**Frameworks & Bibliothèques :** PyTorch, Symfony, React.js
 
 
 ### 🚀 Ce qui m'occupe actuellement
