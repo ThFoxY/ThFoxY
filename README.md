@@ -1,9 +1,5 @@
 # Hey 🦊🖖
 
-> **❗Recherche d'un stage❗**
->
-> Je suis ouvert à des postes en tant que stagiaire du **13 avril à mi-juin 2026** dans le secteur de l'informatique. Contactez-moi si vous souhaitez en savoir plus sur mes motivations et mon parcours.
-
 Étudiant en **2e année de BUT Informatique** à l'IUT du Littoral Côte d'Opale.
 
 * Axé développement d'apps web, logiciel, moteurs de jeux et jeux vidéo.
@@ -14,15 +10,7 @@
 
 ### 📖 Ce que j'apprends à l'heure actuelle
 
-**Langages :** C++, PHP, C
-**Frameworks & Bibliothèques :** PyTorch, Symfony, React.js
-
-
-### 🚀 Ce qui m'occupe actuellement
-
-![En cours](https://img.shields.io/badge/En%20cours-yellow?style=flat-square)  
-**💭 GameLoop :** un blog personnel où j'irai raconter ma vie et où je vais me plaindre des choses qui m'agaçent. Ah oui, je parlerai également de conception de jeux vidéo.  
-**⛰️ Cubic :** un jeu sandbox infini avec des cubes.. wait?
+React, Tailwind, Bootstrap, JavaScript, C
 
 ### 📫 Mes contacts
 
