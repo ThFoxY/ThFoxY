@@ -10,7 +10,7 @@
 
 ### 📖 Ce que j'apprends à l'heure actuelle
 
-React, Tailwind, Bootstrap, JavaScript, C
+React, Vue.js, Dart / Flutter, notions Cyber et de Cloud
 
 ### 📫 Mes contacts
 
