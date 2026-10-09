@@ -37,7 +37,7 @@
 
 - **3rd-year IT student** majoring in developing apps (*web, desktop, mobile*), highest **GPA** *twice*, aiming to become an **IA engineer**
 - I take initiative, lead teams and make numbers **valuable** and **meaningful**
-- I build **indie games**, write articles and win game jams — eh, not always..
+- I build **indie games**, write articles and win game jams — *eh, not always..*
 
 <p>
   <a href="https://thfoxy.github.io/">
