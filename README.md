@@ -42,7 +42,7 @@
 <p>
   <a href="https://thfoxy.github.io/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-ffffff?style=flat&logo=astro&logoColor=black" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio%20(W.I.P)-ffffff?style=flat&logo=astro&logoColor=black" />
       <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=astro&logoColor=white" />
     </picture>
   </a>
@@ -55,6 +55,12 @@
   <a href="mailto:davidmel7562@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-ffffff?style=flat&logo=gmail&logoColor=black" />
+      <img alt="Email" src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" />
+    </picture>
+  </a>
+  <a href="https://thfoxy.github.io/cv/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Online%20CV-ffffff?style=flat&logo=googledocs&logoColor=black" />
       <img alt="Email" src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" />
     </picture>
   </a>
@@ -82,12 +88,13 @@
 **AI-powered ROM library manager, self-hosted.** It scans a local directory, identifies **ROMs** against **[No-Intro](https://datomatic.no-intro.org/index.php?page=download&s=64) databases**, and enriches unidentified ones with a **local Ollama inference server**.
 Collaborating with **3 amazing** people: I lead the team and handle the frontend, architecture decisions and documentation.
 
-### [Portfolio & blog](https://github.com/ThFoxY/thfoxy.github.io) (work in progress <sub>*hehe*</sub>)
+### [Astro-based Portfolio](https://github.com/ThFoxY/thfoxy.github.io) (work in progress <sub>*hehe*</sub>)
 
-**Personal website with my projects and a blog.** Static site, deployed on GitHub Pages.
+**Personal website with my projects and a blog.** Static site, deployed on GitHub Pages. It is also a way for me to get my hands on the **Astro framework**!
 
 <p>
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F766E?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
